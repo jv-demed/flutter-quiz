@@ -48,7 +48,7 @@ class ResultsScreen extends StatelessWidget {
               style: GoogleFonts.lato(
                 color: Colors.white,
                 fontSize: 15
-              ),
+              ), 
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: 30),
